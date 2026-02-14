@@ -1,0 +1,7 @@
+{
+  "name": "Copy of JogjaDrive - Rental Mobil Yogyakarta",
+  "description": "A premium car rental web application specialized for Yogyakarta, featuring AI-powered car recommendations, real-time fleet browsing, and seamless booking simulations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
